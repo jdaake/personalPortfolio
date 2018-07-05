@@ -37,7 +37,7 @@ hr {
 
 .row-header {
   padding: 10vh 10vw 0 10vw;
-  background-image: url('../img/mountains.jpg');
+  background-image: url('../img/code.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -115,7 +115,7 @@ hr {
 .row-footer {
   padding: 0vh 10vw 10vw 10vw;
   margin-top: 100px;
-  background-image: url('../img/mountains.jpg');
+  background-image: url('../img/code.jpg');
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
